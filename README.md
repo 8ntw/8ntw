@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+<h1> 👋 Hi, I’m @8ntw </h1>
+<p> A 16-year-old high school student learning software engineering 💻 </p>
+  
+<h1> ❓ About </h1>
+  <p> 🏷 My name is Baran </p>
+  <p> 🖥 Back-end Developer </p>
+  <p> 🇹🇷 Living in Turkey </p>
+  <p> 💡 Favorite programming language: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> </p>
 
-<!--
-**8ntw/8ntw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> ✍ Technologies I use </h1>
+<img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,fastify,mongodb,vscode&theme=dark" />
 
-Here are some ideas to get you started:
+<h1> 📈 My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=8ntw&show_icons=true&theme=dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> 💎 My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=8ntw&theme=onedark" />
+</div>
