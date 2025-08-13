@@ -8,7 +8,7 @@
   <p> 🇹🇷 Living in Turkey </p>
   <p> 💡 Favorite programming language: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> </p>
 
-<h1> ✍ Technologies I use </h1>
+<h1> 🛠 Technologies I use </h1>
 <img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,fastify,mongodb,vscode&theme=dark" />
 
 <h1> 📈 My stats </h1>
